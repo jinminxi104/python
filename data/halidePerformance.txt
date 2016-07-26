@@ -1,0 +1,2 @@
+1: Duration 5500us 100cycles
+0: Duration 5512us 102cycles
